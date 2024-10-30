@@ -1,0 +1,7 @@
+\\iscsi\profstud\SHamDP\Desktop\Bridge_pattern-master\bin\Debug\Bridge_pattern.exe.config
+\\iscsi\profstud\SHamDP\Desktop\Bridge_pattern-master\bin\Debug\Bridge_pattern.exe
+\\iscsi\profstud\SHamDP\Desktop\Bridge_pattern-master\bin\Debug\Bridge_pattern.pdb
+\\iscsi\profstud\SHamDP\Desktop\Bridge_pattern-master\obj\Debug\Bridge_pattern.csproj.AssemblyReference.cache
+\\iscsi\profstud\SHamDP\Desktop\Bridge_pattern-master\obj\Debug\Bridge_pattern.csproj.CoreCompileInputs.cache
+\\iscsi\profstud\SHamDP\Desktop\Bridge_pattern-master\obj\Debug\Bridge_pattern.exe
+\\iscsi\profstud\SHamDP\Desktop\Bridge_pattern-master\obj\Debug\Bridge_pattern.pdb
